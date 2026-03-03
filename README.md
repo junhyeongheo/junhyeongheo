@@ -1,6 +1,6 @@
 <!-- ====== 배너 ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient"/>
+  <img src="https://github.com/user-attachments/assets/d0f0d42f-d08e-435e-a62d-e84d645cb4ba"/>
 </p>
 
 <!-- ====== Contact ====== -->
