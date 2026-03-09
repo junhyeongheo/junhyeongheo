@@ -6,7 +6,7 @@
 <p align="center" style="margin:4px 0; font-size:0; line-height:0;">
   <a href="mailto:gjwnsgud38@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/megi_x0x/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/heojunhyeong"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/junhyeongheo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://kyoing.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
   <a href="https://www.discord.com/users/356444082966364162"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
   <a href="https://www.youtube.com/@%ED%8E%B8%EC%A7%91%EC%9E%90%EA%B5%90%EC%9E%89"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
