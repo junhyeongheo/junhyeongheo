@@ -60,7 +60,8 @@
 
 <h3 align="center">Video Edit With</h3>
 <p align="center" style="margin:2px 0; font-size:0; line-height:0;">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005b?style=flat&logo=adobepremierepro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-00005b?style=flat&logo=adobeaftereffects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=Adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere%20Pro-00005D?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After%20Effects-00005D?style=flat&logo=Adobe%20After%20Effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FE?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
 </p>
