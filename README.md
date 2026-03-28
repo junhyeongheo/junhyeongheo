@@ -1,8 +1,18 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d0f0d42f-d08e-435e-a62d-e84d645cb4ba"/>
 </p>
+
+
 <h3 align="center">Main</h3>
+<p align="center">
+<img src=/>
+</p>
+
 <h3 align="center">Sub</h3>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a836b88e-9c77-4d02-be7c-9b59be4e1bbe"/>
+</p>
+
 
 
 <h3 align="center">Kyoing</h3>
